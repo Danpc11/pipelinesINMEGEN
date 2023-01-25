@@ -1,0 +1,7 @@
+name_id,names,replica,condition
+HBR_1,HBR_Rep1_ERCC-Mix2_Build37-ErccTranscripts-chr22,1,control
+HBR_2,HBR_Rep2_ERCC-Mix2_Build37-ErccTranscripts-chr22,2,control
+HBR_3,HBR_Rep3_ERCC-Mix2_Build37-ErccTranscripts-chr22,3,control
+UHR_1,UHR_Rep1_ERCC-Mix1_Build37-ErccTranscripts-chr22,1,treated
+UHR_2,UHR_Rep2_ERCC-Mix1_Build37-ErccTranscripts-chr22,2,treated
+UHR_3,UHR_Rep3_ERCC-Mix1_Build37-ErccTranscripts-chr22,3,treated

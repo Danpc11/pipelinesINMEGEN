@@ -1,0 +1,25 @@
+# Conda environment for INMEGEN variant-calling pipelines
+name: nf-vcenv
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.7
+  - nextflow
+  - bwa
+  - samtools=1.12
+  - multiqc
+  - fastqc
+  - bcftools
+  - star
+ # core R dependencies
+  - r-base
+  - r-data.table
+  - r-dplyr
+  - r-getopt
+  - r-ggplot2
+  - r-gplots
+  - r-gsalib
+  - r-optparse
+  - r-backports
